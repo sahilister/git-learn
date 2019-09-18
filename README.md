@@ -1,2 +1,2 @@
 # git-learn
-fiddling and learning to use git and github
+fiddling and learning to use git and github.
